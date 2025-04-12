@@ -1,4 +1,4 @@
-# 🐭 HamstersTunnel
+# 🐭 HamsterTunnel
 
 HamsterTunnel is a flexible tunneling service that allows clients 
 to configure and manage network services with different protocols (HTTP, TCP, UDP). 
